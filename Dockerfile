@@ -1,1 +1,1 @@
-FROM monachus/tinyproxy:latest
+FROM vimagick/tinyproxy:latest
